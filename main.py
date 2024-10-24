@@ -9,4 +9,3 @@ edadparavotar=16
 PuedeVotar=edadDeRodri>=edadparavotar
 if PuedeVotar: True
     print("Usted puede Votar")
-
